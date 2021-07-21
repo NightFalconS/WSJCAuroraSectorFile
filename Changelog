@@ -1,0 +1,21 @@
+Changelog
+
+
+
+16 Jul 2020
+* Fixed the STARs for LELIB3B arrival
+* Added LELIB/SABKA/TOPOR/MASBO WPs
+* Added STARs/SIDs for Runway 02R/20L
+* 
+
+
+15 Jul 2021
+* Added the taxiways to enable runway 3 (A/B/J/K)
+* Extended the necessary taxiways to link the new taxiways (P/T)
+* Removed stand 607 as it has been removed due to the construction of the new taxiways
+* Made some fixes on the taxiway labels
+* Removed the roads to the east of 02C/20C as they are removed to make way for the future terminal 5
+* Correctly linked the outline of the airport on the east side of the airport
+* Added the taxiways MY (Note: Seldom used)
+* Updated SIDs/STARs so they use waypoints instead of coordinates. This helps as it shows the labels of the waypoints
+* Updated the level/speed limits for SID/STARs where necessary
