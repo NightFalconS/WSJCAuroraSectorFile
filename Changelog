@@ -1,12 +1,14 @@
 Changelog
 
+21 Jul 2020
+* Added WSJC Subsectors
+* Added RNP fixes for Rwy 02R/20L 
 
 
 16 Jul 2020
 * Fixed the STARs for LELIB3B arrival
 * Added LELIB/SABKA/TOPOR/MASBO WPs
 * Added STARs/SIDs for Runway 02R/20L
-* 
 
 
 15 Jul 2021
